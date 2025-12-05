@@ -11,4 +11,5 @@ function sayName(){
 
 function newFeatureAdd(){
     console.log("This is new feature")
+    console.log("This is new feature A")
 }
