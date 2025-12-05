@@ -1,6 +1,6 @@
 console.log("Hello World !")
 
-const name = "Amit"
+const name = "Amit Pal"
 
 const dob = "01/01/2003"
 
