@@ -7,3 +7,7 @@ const dob = "01/01/2003"
 function sayName(){
     console.log("Amit")
 }
+
+function newFn(){
+    console.log("Hey I am new fun")
+}
