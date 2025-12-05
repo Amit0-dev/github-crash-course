@@ -13,3 +13,8 @@ function newFeatureAdd(){
     console.log("This is new feature")
     console.log("This is new feature A")
 }
+
+function newFeatureAddB(){
+    console.log("This is new feature")
+    console.log("This is new feature B")
+}
